@@ -1,0 +1,1 @@
+54586 281474978188371 1642009042198362600 31ee54f6aea4d07cc45db68137c9ee4d C:\Users\Test\Documents\Zig\zig-windows-x86_64-0.9.0\zig-windows-x86_64-0.9.0\lib\libc\mingw\lib-common\ntdll.def.in
